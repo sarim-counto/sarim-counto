@@ -2,8 +2,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarim-counto&theme=dark&hide_border=false)<br/>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+### ✍️ So random
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
 
